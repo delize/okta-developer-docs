@@ -1350,6 +1350,7 @@ Refer to the [product documentation](https://help.okta.com/en/prod/Content/Topic
 | `APP_ADMIN`                   | Application Administrator           | Apps                                  |
 | `USER_ADMIN`                  | Group Administrator                 | [Groups](/docs/reference/api/groups/) |
 | `HELP_DESK_ADMIN`             | Help-Desk Administrator             | [Groups](/docs/reference/api/groups/) |
+| `GROUP_MEMBERSHIP_ADMIN`      | Group-Membership Administrator      | [Groups](/docs/reference/api/groups/) |
 | `READ_ONLY_ADMIN`             | Read-only Administrator             |                                       |
 | `MOBILE_ADMIN`                | Mobile Administrator                |                                       |
 | `API_ACCESS_MANAGEMENT_ADMIN` | API Access Management Administrator |                                       |
